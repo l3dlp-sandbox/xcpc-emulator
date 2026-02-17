@@ -23,7 +23,7 @@
 
 namespace vga {
 
-class State;
+struct State;
 class Instance;
 class Interface;
 

@@ -23,7 +23,7 @@
 
 namespace mem {
 
-class State;
+struct State;
 class Instance;
 class Interface;
 

@@ -30,7 +30,7 @@ struct floppy_drive;
 
 namespace fdc {
 
-class State;
+struct State;
 class Instance;
 class Interface;
 
